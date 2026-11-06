@@ -194,3 +194,72 @@ You don't need advanced mathematics initially.
 | Gradient Descent                   | High for understanding training |
 
 ---
+---
+---
+---
+---
+---
+
+Since you have already completed Python basics, NumPy, Pandas, and Matplotlib, you are ready to start Machine Learning with Scikit-learn.
+
+You don't need to learn 10+ libraries before starting ML.
+
+## 1. Libraries to learn before Scikit-learn
+
+| Order | Library      | What to learn                                           |-- |
+| ----- | ------------ | ------------------------------------------------------- | --|
+| 1     | NumPy        | Arrays, indexing, broadcasting, mathematical operations | done
+| 2     | Pandas       | DataFrames, filtering, cleaning, missing values         |done
+| 3     | Matplotlib   | Line plots, scatter plots, histograms, subplots         |done
+| 4     | Seaborn      | Heatmaps, pairplots, distribution plots, boxplots       | pending 
+| 5     | SciPy        | Basic statistics and scientific calculations            |pending
+| 6     | Scikit-learn | ML algorithms, preprocessing, training, testing         |pending
+
+You can start Scikit-learn now
+
+## 2. Other concepts you should learn
+
+Before diving deeply into ML, understand these mathematical concepts:
+
+| Mathematics    | Topics                                           |
+| -------------- | ------------------------------------------------ |
+| Statistics     | Mean, median, mode, variance, standard deviation |
+| Probability    | Basic probability, conditional probability       |
+| Linear Algebra | Vectors, matrices, matrix multiplication         |
+| Calculus       | Derivatives, gradients, basic differentiation    |
+
+You don't need advanced mathematics initially.
+
+## 3. Scikit-learn learning roadmap
+
+Learn these topics in this order:
+
+1. ML Fundamentals
+
+   Supervised vs Unsupervised Learning, features, labels, datasets.
+2. Data Preprocessing
+
+   `train_test_split()`, `StandardScaler`, `LabelEncoder`, `OneHotEncoder`, handling missing values.
+3. Regression Algorithms
+
+   Linear Regression, Multiple Linear Regression, Polynomial Regression.
+4. Classification Algorithms
+
+   Logistic Regression, KNN, Decision Tree, Random Forest, SVM.
+5. Unsupervised Learning
+
+   K-Means Clustering, Hierarchical Clustering, PCA.
+6. Model Evaluation
+
+   Accuracy, Precision, Recall, F1-score, Confusion Matrix, MAE, MSE, RMSE, R².
+7. Advanced Concepts
+
+   Cross-validation, Hyperparameter Tuning, GridSearchCV, Pipelines.
+
+## 4. My recommended learning sequence
+
+1. Complete Seaborn basics (2–3 days).
+2. Learn basic statistics and probability.
+3. Start Scikit-learn.
+4. Implement Simple Linear Regression.
+5. Build small ML projects using real datasets.
